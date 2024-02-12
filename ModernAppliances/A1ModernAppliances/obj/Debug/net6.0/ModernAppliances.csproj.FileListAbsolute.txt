@@ -1,0 +1,15 @@
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/appliances.txt
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.deps.json
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.runtimeconfig.json
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.dll
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.pdb
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.AssemblyInfoInputs.cache
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.AssemblyInfo.cs
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.csproj.CoreCompileInputs.cache
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.dll
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/refint/ModernAppliances.dll
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.pdb
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.genruntimeconfig.cache
+/Users/parmansangha/Desktop/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ref/ModernAppliances.dll
